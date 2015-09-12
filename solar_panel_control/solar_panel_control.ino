@@ -1,4 +1,3 @@
-
 // include the servo library
 #include <Servo.h>
 Servo myServo;  // create a servo object
