@@ -22,7 +22,7 @@ void loop() {
   digitalWrite(M2IN2, LOW);
   digitalWrite(M2IN1, HIGH);
   digitalWrite(M2D2PWM, HIGH);
-  analogWrite(M2D1PWM, 20);
+  analogWrite(M2D1PWM, 100);
   Serial.println(i);
   delay(100);
 }  
